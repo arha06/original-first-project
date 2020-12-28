@@ -4,6 +4,7 @@
 //
 //  Copyright © 2016 Code School. All rights reserved.
 //
+// this is a test comment 1
 
 import UIKit
 
